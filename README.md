@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 13 years of professional IT experience including specification, Design, Implementation, Debugging, Testing, and Development of complex scalable software applications using Java, Springboot, Microservices and AWS.
-- 📫 How to reach me: [Connect/Folllow me on LinkedIn](https://www.linkedin.com/in/codinglk/) , [Email Me](mailto:lalit.kumar8618@gmail.com) , [Lalit Kumar Personal Page](http://codinglk.com)
+- 🔭 I am Lalit Kumar Associate Technical Architect. I am having over 13 years of professional IT experience including specification, Design, Implementation, Debugging, Testing, and Development of complex scalable software applications using Java, Springboot, Microservices and AWS. Work closely with Product Managers, Business System Analyst, Software Engineers, Operations and Quality Assurance Engineers in a collaborative environment to provide quality software and solutions.
+- 📫 How to reach me: [Connect/Folllow me on LinkedIn](https://www.linkedin.com/in/codinglk/) , [Email Me](mailto:lalit.kumar8618@gmail.com) , [Lalit Kumar Personal Page](https://codinglk.com)
