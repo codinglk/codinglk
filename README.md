@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Associate Technical Architect @ R Systems 🧑‍💻 14 years of hands-on experience including specification, Design, Implementation, Debugging, Testing, and Development of complex scalable software applications using Java, Spring boot, Microservices and AWS. 
+- 🔭 Solution Architect @ HCL Technologies Ltd. 🧑‍💻 15 years of hands-on experience including specification, Design, Implementation, Debugging, Testing, and Development of complex scalable software applications using Java, Spring boot, Microservices and AWS. 
 
 - 🔭 Designed and developed the multi-tenant system to launch grants in different states and launched the grants in Pennsylvania, California and New York.
  
