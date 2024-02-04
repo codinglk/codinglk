@@ -1,4 +1,4 @@
-### Hi there 👋 codinglk👨‍💻 coding is fun😊
+### Hi there 👋
 
 <!--
 **codinglk/codinglk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,27 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Solution Architect @ HCL Technologies Ltd. 🧑‍💻 15 years of hands-on experience including specification, Design, Implementation, Debugging, Testing, and Development of complex scalable software applications using Java, Spring boot, Microservices and AWS. 
+- 🔭 Architecting Scalable Solutions: My Expertise in Java, Spring Boot, Microservices, Docker, Kubernetes, and AWS
 
-- 🔭 Designed and developed the multi-tenant system to launch grants in different states and launched the grants in Pennsylvania, California and New York.
+- 🔭 I'm a passionate Solution Architect with a proven track record of designing and implementing complex, scalable solutions for clients across diverse industries. My expertise lies in leveraging cutting-edge technologies like Java, Spring Boot, Microservices, Docker, Kubernetes, and AWS to deliver innovative and impactful solutions.
  
-- 🔭 POC for DocuSign and implemented in the project
+- 🔭 Here's what I bring to the table:
+   * Deep understanding of Java and Spring Boot: I'm proficient in building robust, modular, and maintainable applications using these powerful frameworks.
+   * Microservices architecture expertise: I excel at designing and implementing distributed systems using microservices principles for increased scalability, agility, and fault        
+     tolerance.
+   * Docker and Kubernetes mastery: I leverage containerization and orchestration technologies to ensure efficient deployment, management, and scaling of applications.
+   * AWS cloud proficiency: I'm well-versed in utilizing AWS services like EC2, Lambda, S3, EKS, and more to build secure, cost-effective, and highly available solutions.
+   * RFP response experience: I have a strong track record of crafting compelling and technically sound responses to RFPs, ensuring alignment with client requirements and showcasing 
+     the value proposition of my solutions.
 
-- 🔭 Work closely with Product Managers, Business System Analyst, Software Engineers, Operations and Quality Assurance Engineers in a collaborative environment to provide quality software and solutions. 
+- 🔭 I'm particularly excited about:
+  * Helping businesses modernize their legacy systems: I enjoy the challenge of migrating complex applications to the cloud using microservices and containerization technologies.
+  * Building cloud-native applications from scratch: I'm passionate about designing and implementing scalable, secure, and performant cloud-based solutions.
+  * Collaborating with cross-functional teams: I thrive in collaborative environments where I can share my knowledge and learn from others.
 
-- 🔭 Highly proficient in Java, Spring Boot, Microservices and AWS.
-
-- 🔭 Good understanding of the principles and trade-offs of a microservices architecture.
-
-- 🔭 Good working experience of cloud infrastructure (AWS).
-
-- 🔭 Good experience of delivering well engineered solutions using current technologies and best practices such as SOLID, TDD and CI/CD.
-
-- 🔭 Good Experience working as part of an Agile delivery team, using Scrum methodology.
-
-- 🔭 I have hosted my own secure static website on AWS. Personal website link is [https://codinglk.com](https://codinglk.com)
-
-- 🔭 Highly motivated, dedicated and hardworking, with strong analytical and logical development skills.
+- 🔭 Hosted my own secure static website on AWS using S3, Cloud Front, Certificate Manager and Route 53. Personal website link is [https://codinglk.com](https://codinglk.com)
 
 - 🔭 Expertise in web development especially in Gamification/user engagement, production tracking systems in publishing, e-commerce, healthcare, real estate, contact center, travel and finance domains.
 
