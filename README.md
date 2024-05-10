@@ -32,10 +32,8 @@ Here are some ideas to get you started:
   * Building cloud-native applications from scratch: I'm passionate about designing and implementing scalable, secure, and performant cloud-based solutions.
   * Collaborating with cross-functional teams: I thrive in collaborative environments where I can share my knowledge and learn from others.
 
-- 🔭 Hosted my own secure static website on AWS using S3, Cloud Front, Certificate Manager and Route 53. Personal website link is [https://codinglk.com](https://codinglk.com)
-
 - 🔭 Expertise in web development especially in Gamification/user engagement, production tracking systems in publishing, e-commerce, healthcare, real estate, contact center, travel and finance domains.
 
 - 🔭 I love to talk about AWS, Coding, Spring boot, Microservices, Git and Java Programming on LinkedIn. I write articles on Medium. I love to code and share on GitHub. I am a fitness freak and love to workout daily.
 
-- 📫 How to reach me: [Connect/Folllow me on LinkedIn](https://www.linkedin.com/in/codinglk/) , [Email Me](mailto:lalit.kumar8618@gmail.com) , [Visit my Personal Page](https://codinglk.com) , [Connect/Follow me on Medium](https://medium.com/@codinglk)
+- 📫 How to reach me: [Connect/Folllow me on LinkedIn](https://www.linkedin.com/in/codinglk/) , [Email Me](mailto:lalit.kumar8618@gmail.com) , [Connect/Follow me on Medium](https://medium.com/@codinglk)
