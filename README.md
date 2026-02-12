@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 - 🔭 Expertise in web development especially in Gamification/user engagement, production tracking systems in publishing, e-commerce, healthcare, real estate, contact center, travel and finance domains.
 
-- 🔭 I love to talk about AWS, Coding, Spring boot, Microservices, Git and Java Programming on LinkedIn. I write articles on Medium. I love to code and share on GitHub. I am a fitness freak and love to workout daily.
+- 🔭 I love to talk about AWS, Coding, GenAI, Platform Engineering, Spring boot, Microservices, Git and Java Programming on LinkedIn. I write articles on Medium. I love to code and share on GitHub.
 
 - 📫 How to reach me: [Connect/Folllow me on LinkedIn](https://www.linkedin.com/in/codinglk/) , [Email Me](mailto:lalit.kumar8618@gmail.com) , [Connect/Follow me on Medium](https://medium.com/@codinglk)
