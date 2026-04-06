@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Architecting Scalable Solutions: My Expertise in Java, Spring Boot, Microservices, Docker, Kubernetes, GenAI, Platform Engineering and AWS
+- 🔭 Architecting Scalable Solutions: My Expertise in Java, Spring Boot, Microservices, Docker, Kubernetes, GenAI, Agentic AI Solutions, Platform Engineering and AWS
 
-- 🔭 I'm a passionate Senior Solution Architect with a proven track record of designing and implementing complex, scalable solutions for clients across diverse industries. My expertise lies in leveraging cutting-edge technologies like Java, Spring Boot, Microservices, Docker, Kubernetes, GenAI, Platform Engineering and AWS to deliver innovative and impactful solutions.
+- 🔭 I'm a passionate Senior Solution Architect with a proven track record of designing and implementing complex, scalable solutions for clients across diverse industries. My expertise lies in leveraging cutting-edge technologies like Java, Spring Boot, Microservices, Docker, Kubernetes, GenAI, Agentic AI Solutions, Platform Engineering and AWS to deliver innovative and impactful solutions.
  
 - 🔭 Here's what I bring to the table:
    * Deep understanding of Java and Spring Boot: I'm proficient in building robust, modular, and maintainable applications using these powerful frameworks.
